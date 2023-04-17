@@ -5,6 +5,7 @@ package com.kbstar;
 public class Main {
     public static void main(String[] args) {
         int a = 10;
+        int b = 20;
         for (int i = 1; i <= 5; i++) {
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
